@@ -16,3 +16,5 @@ Materi:
 * Modul 3 - Operasi Citra Sederhana
 * Modul 5 - Gamma Correction
 * Modul 6 - HIstogram, Histogram Equalization, Dithering 
+* Modul 7 - Spasial Filter
+* Modul 8 - Morfologi
