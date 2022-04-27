@@ -11,10 +11,11 @@ Repository untuk matakuliah Pemrograman Citra Dan Visi Komputer semester 6 tahun
 
 Materi:
 
-* Modul 1 - PCVK pada Google Colab
-* Modul 2 - Numpy, OpenCV, dan Aplikasi-aplikasi Pengolahan Citra
-* Modul 3 - Operasi Citra Sederhana
-* Modul 5 - Gamma Correction
-* Modul 6 - HIstogram, Histogram Equalization, Dithering 
-* Modul 7 - Spasial Filter
-* Modul 8 - Morfologi
+* [Modul 1 - PCVK pada Google Colab](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul1.ipynb)
+* [Modul 2 - Numpy, OpenCV, dan Aplikasi-aplikasi Pengolahan Citra](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul2.ipynb)
+* [Modul 3 - Operasi Citra Sederhana](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul3.ipynb)
+* [Modul 5 - Gamma Correction](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul5.ipynb)
+* [Modul 6 - HIstogram, Histogram Equalization, Dithering](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul6.ipynb)
+* [Modul 7 - Spasial Filter](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul7.ipynb)
+* [Modul 8 - Morfologi](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul8.ipynb)
+* [Modul 10 - Thresholding](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul10.ipynb)
