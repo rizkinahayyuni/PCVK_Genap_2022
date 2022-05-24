@@ -19,3 +19,4 @@ Materi:
 * [Modul 7 - Spasial Filter](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul7.ipynb)
 * [Modul 8 - Morfologi](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul8.ipynb)
 * [Modul 10 - Thresholding](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul10.ipynb)
+* [Modul 11 - Object Detection Method](https://github.com/rizkinahayyuni/PCVK_Genap_2022/blob/main/Modul11.ipynb)
